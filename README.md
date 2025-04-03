@@ -1,4 +1,4 @@
-# 🤖 Simple Chatbot in Python  
+# Simple Chatbot in Python  
 
 This project demonstrates how to build a **basic chatbot** using Python and the `nltk` library.  
 
