@@ -13,5 +13,5 @@ pairs = [
 chatbot = Chat(pairs, reflections)
 
 # Start conversation
-print("🤖 Simple Chatbot (type 'quit' to exit)")
+print("Simple Chatbot (type 'quit' to exit)")
 chatbot.converse()
